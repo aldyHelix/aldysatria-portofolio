@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="/logo.png" alt="My Image" className="logo" />
+        <img src="/logo.png" alt="My Image" className={styles.main-logo} />
         <h1 className={styles.title}>
           Welcome to <a href="https://github.com/aldyHelix">Aldy Satria Gumilar!</a>
         </h1>
