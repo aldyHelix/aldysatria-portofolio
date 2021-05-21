@@ -63,7 +63,7 @@
 }
 
 .code {
-  background: #fafafa;
+  background: #5c5454;
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
@@ -114,8 +114,8 @@
   height: 1em;
 }
 
-.main-logo {
-  height: 35px;
+.headlogo {
+  height: 235px;
 }
 
 @media (max-width: 600px) {

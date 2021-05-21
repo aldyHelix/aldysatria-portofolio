@@ -10,9 +10,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="/logo.png" alt="My Image" className={styles.main-logo} />
+        <img src="/logo.png" alt="My Image" className={styles.headlogo} />
         <h1 className={styles.title}>
-          Welcome to <a href="https://github.com/aldyHelix">Aldy Satria Gumilar!</a>
+          Hi! I'am <a href="https://github.com/aldyHelix">Aldy Satria Gumilar!</a>
         </h1>
 
         <p className={styles.description}>
