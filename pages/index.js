@@ -10,8 +10,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img src="/logo.png" alt="My Image" className="logo" />
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Aldy Satria Gumilar!</a>
+          Welcome to <a href="https://github.com/aldyHelix">Aldy Satria Gumilar!</a>
         </h1>
 
         <p className={styles.description}>
